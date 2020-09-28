@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/tramite-SISBEN/static/css/main.5f361e03.chunk.css",
-    "main.js": "/tramite-SISBEN/static/js/main.0a488ac5.chunk.js",
-    "main.js.map": "/tramite-SISBEN/static/js/main.0a488ac5.chunk.js.map",
+    "main.js": "/tramite-SISBEN/static/js/main.064c0664.chunk.js",
+    "main.js.map": "/tramite-SISBEN/static/js/main.064c0664.chunk.js.map",
     "runtime-main.js": "/tramite-SISBEN/static/js/runtime-main.37531a72.js",
     "runtime-main.js.map": "/tramite-SISBEN/static/js/runtime-main.37531a72.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/tramite-SISBEN/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.4bf9b79c.chunk.js": "/tramite-SISBEN/static/js/2.4bf9b79c.chunk.js",
-    "static/js/2.4bf9b79c.chunk.js.map": "/tramite-SISBEN/static/js/2.4bf9b79c.chunk.js.map",
+    "static/js/2.1998cc9a.chunk.js": "/tramite-SISBEN/static/js/2.1998cc9a.chunk.js",
+    "static/js/2.1998cc9a.chunk.js.map": "/tramite-SISBEN/static/js/2.1998cc9a.chunk.js.map",
     "index.html": "/tramite-SISBEN/index.html",
-    "precache-manifest.34eb1dc54fe7ebaeeebc94ac3f757e1d.js": "/tramite-SISBEN/precache-manifest.34eb1dc54fe7ebaeeebc94ac3f757e1d.js",
+    "precache-manifest.db1eabc6da6dbee40f90b82a3fb17f60.js": "/tramite-SISBEN/precache-manifest.db1eabc6da6dbee40f90b82a3fb17f60.js",
     "service-worker.js": "/tramite-SISBEN/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/tramite-SISBEN/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/tramite-SISBEN/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.4bf9b79c.chunk.js.LICENSE.txt": "/tramite-SISBEN/static/js/2.4bf9b79c.chunk.js.LICENSE.txt",
+    "static/js/2.1998cc9a.chunk.js.LICENSE.txt": "/tramite-SISBEN/static/js/2.1998cc9a.chunk.js.LICENSE.txt",
     "static/media/camara.ico": "/tramite-SISBEN/static/media/camara.a287e97f.ico",
     "static/media/micro2.webp": "/tramite-SISBEN/static/media/micro2.4e75923f.webp",
     "static/media/microred.png": "/tramite-SISBEN/static/media/microred.8f52fda7.png"
@@ -21,8 +21,8 @@
   "entrypoints": [
     "static/js/runtime-main.37531a72.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.4bf9b79c.chunk.js",
+    "static/js/2.1998cc9a.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.0a488ac5.chunk.js"
+    "static/js/main.064c0664.chunk.js"
   ]
 }
