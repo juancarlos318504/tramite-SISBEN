@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af5e81cfd03ca81f76ac42e04d2cb459",
+    "revision": "ef6fc845ff6f06e3e4cacf67960a5e96",
     "url": "/tramite-SISBEN/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tramite-SISBEN/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "f8287ff298b18a9f684c",
+    "revision": "a44db46f7dd1da110cf9",
     "url": "/tramite-SISBEN/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tramite-SISBEN/static/js/2.336e4e68.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f8287ff298b18a9f684c",
-    "url": "/tramite-SISBEN/static/js/main.9cd6a102.chunk.js"
+    "revision": "a44db46f7dd1da110cf9",
+    "url": "/tramite-SISBEN/static/js/main.8c3f16e5.chunk.js"
   },
   {
     "revision": "a81295dcc2714c39034c",

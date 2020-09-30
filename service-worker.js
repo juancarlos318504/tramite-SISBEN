@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tramite-SISBEN/precache-manifest.fd39388c36ee60af97d1103115615264.js"
+  "/tramite-SISBEN/precache-manifest.b1a5547def34da6ef939cff569f7175c.js"
 );
 
 self.addEventListener('message', (event) => {
